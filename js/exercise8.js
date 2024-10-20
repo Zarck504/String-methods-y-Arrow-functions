@@ -1,0 +1,1 @@
+const extraerParte = (cadena, inicio, fin) => cadena.substring(inicio, fin);

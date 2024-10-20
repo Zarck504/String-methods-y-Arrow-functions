@@ -1,0 +1,1 @@
+const obtenerLongitud = cadena => cadena.length;
